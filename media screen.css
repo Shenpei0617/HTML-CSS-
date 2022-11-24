@@ -1,0 +1,178 @@
+@media screen and (min-width:768px) {   
+    .logo img{        
+        margin-top: 50px;
+        width: 130%;   
+    }
+   .chicken{   
+    max-width: 40%;
+    }
+   .about-img {
+    max-width: 90%;
+    height: 50vh;
+    
+    }
+    .about-text{
+        max-width: 40%;
+    }
+    .about-img-text{
+        writing-mode: vertical-rl;
+        margin-left: 80px;
+        margin-top: -55px;
+        
+    }
+    .about-bottom-img-bg{
+        max-width: 50%;
+        height: 45vh;
+    }
+    .about-bottom-img-make{
+        width: 80%;
+        margin: -200px 0 0 0;
+        left: 23%;
+        height: 40vh;
+    }
+  
+    .make-step-one {    
+        width: 80%;
+        flex-direction: row;   
+    }
+    .make img {
+       width: 40%;
+       margin-bottom: 0;
+       
+    }
+    .make-text-one{
+        margin-right: 40px;
+        margin-left: 150px;
+    }
+    .make-step-two{
+        width: 80%;
+        flex-direction: row;
+        margin-top: -100px;
+        align-items: flex-end;
+    }
+    .make-text-two{
+       margin-left: 80px;
+       margin-right: 30px;   
+    }
+    .menu-card-grop{    
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .menu-card-grop img{
+        width: 85%;
+    }
+    .sall-card-grop{
+        flex-direction: row;
+    }
+    .cake-bg-back{
+        height: 80vh;
+        background-attachment: fixed;
+    }
+    .shop h2{
+        margin-left: 20px;
+        padding-top: 30px;
+        margin-bottom: 30px;
+    }
+    .shop-grop{
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 20px;
+        
+    }
+    .shop-img{
+        max-width: 25%;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    .news-card-group{
+        max-width: 50%;
+    }
+    .foter-text{
+        max-width: 20%;
+    }
+}
+
+
+
+
+
+@media screen and (min-width:996px) {
+    .home-center{
+        padding-top: 0px;
+    }
+    .logo img{        
+        margin-top: 20px;
+        width: 130%;   
+    }
+    .chicken{
+        width: 260px;
+    }
+    .about{
+        margin-bottom: 180px;
+    }
+    .about-img {
+        width: 100%;
+        height: 80vh;
+    }
+    .about-img-text p span{
+        font-size: 35px;
+        line-height: 60px;
+        
+    }
+    .about-bottom-img-bg{
+        max-width: 55%;
+        height: 50vh;
+    }
+    .about-bottom-img-make{
+        width: 80%;
+        margin: -250px 0 0 0;
+        left: 25%;
+        height: 50vh;
+    }
+    .make-text-one{
+        width: 70%;
+        margin-right: 20px;
+    }
+    
+    .make-step-two{
+        width: 70%;
+        flex-direction: row;
+        margin-top: -180px;
+        align-items: flex-end;
+    }
+    .make-text-two{
+       margin-left: 30px;
+       margin-right: 100px;   
+    }
+    .menu-card-grop{
+        width: 80%;
+    }
+    .menu-card-grop img{
+        width: 95%;
+    }
+    .sall{
+        display: flex;
+        justify-content: center;
+
+    }
+    .sall-card-grop{
+        width: 80%;
+        
+    }
+    .sall-img-one,
+    .sall-img-two {
+        max-width: 80%;
+    }
+    .shop-img{
+        max-width: 20%;
+        
+    }
+    .news-card-group{
+        max-width: 65%;
+        overflow-x: hidden;
+    }
+    .foter-text{
+        max-width: 15%;
+    }
+}
+   
